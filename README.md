@@ -45,7 +45,7 @@ Idea is, have a repo for everything im starting to learn, and add all interestin
 
 ## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/pesic.uros)
+- [LinkedIn](https://www.linkedin.com/in/pesicuros)
 
 ## 🌟 Projects
 
