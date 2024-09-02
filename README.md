@@ -1,56 +1,39 @@
-# Hi there, I'm V4lheru! 👋
+# Hi there, I'm Uros Pesic! 👋
 
-Im currently working as a Business Analyst/Solution Consultant in Supply Chain.  My goal is to build a strong portfolio in Prompt Engineering and Python, which i started both recently.
+## About Me 🚀
+I'm a Solution Consultant and Business Analyst with a strong background in Prompt Engineering and AI integration. Currently, I'm working at ParkourSC in the supply chain domain and serving as the Chief Operations Officer at Synthminds.AI. My passion lies in leveraging AI to optimize operations and deliver transformative business outcomes.
 
-Plan is next: Start learning Python and pass PCEP (PCAP by EOY). Continue growing on  BA and SA path. And get certified as Prompt Engineer to best utilize all the 
-tools at my disposal. This Git is a portfolio place.
+## 🛠️ Skills
+- **Technical**: Python, AI/ML, Process Optimization, Technical Writing, APIs, No-Code AI Development, Advanced Prompt Engineering
+- **Soft Skills**: Stakeholder Management, Project Management, Customer Relations, Strategic Planning
+- **Industry Knowledge**: Supply Chain Management, Business Analysis, Solution Design, AI Integration Strategies
 
-I have no prior programing experience.
+## 🌟 Professional Experience
+- **Solution Consultant** at ParkourSC (Dec 2022 - Present)
+- **Chief Operations Officer** at Synthminds.AI (Mar 2023 - Present)
+- **Business Analyst** at ParkourSC (Feb 2021 - Nov 2022)
+- **Customer Success Manager** at NCR Silver (Apr 2019 - Jan 2021)
 
-Idea is, have a repo for everything im starting to learn, and add all interesting things I do, as I learn, they will get more interesting and relevant.
+## 🎓 Education & Certifications
+- Bachelor's Degree in Law, University Union, Belgrade
+- PCEP™ – Certified Entry-Level Python Programmer
+- MindStudio Certified Developer (No-Code AI Automation)
+- Various AI and Business Strategy courses from Yeshiva University and Uplimit
 
-## About Me 🌱
-
-- 🔭 I'm currently learning Python from scratch. Jack of all trades, master of none (technical at least). I plan to change that with Prompt Eng.
-- 🌟 I'm interested in Prompt Engineering. I think that would be my tool to combine all other skills.
-- 🤔 I'm looking for help with mastering Python and creating an impressive portfolio
-- 📫 How to reach me: pesic.uros@yahoo.com(mailto:pesic.uros@yahoo.com)
-- ⚡ Fun fact: This was written by GPT (partially) 
-
-## 🛠️ My Skills
-
-### Languages
-
-- Python (Beginner)
-
-### Tools
-
-- Git & GitHub
-- JIRA & Confluence
-- Postman
-- ChatGPT
+## 🌱 Current Learning Focus
+- Advanced AI integration strategies
+- Expanding prompt engineering capabilities
 
 ## 📊 GitHub Stats
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v4lheru&layout=compact&theme=radical)
 
-## 📚 Currently Learning
-
-- [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
-- [Selenium Webdriver with PYTHON from Scratch + Frameworks](https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language)
-- [Python PCEP: Become Certified Entry-Level Python Programmer](https://www.udemy.com/course/python-pcep/)
-- [ChatGPT Complete Guide: Learn Midjourney, ChatGPT 4 & More](https://www.udemy.com/course/complete-ai-guide/)
+## 🚀 Projects
+- **AI-powered Documentation Assistant**: Streamlined workflow creation and requirements gathering across multiple projects.
+- **Knowledge Management System**: Developed using Obsidian.md to boost operational efficiency.
+- **Practical AI Institute (PAII.org)**: Co-founder of an innovative AI education platform focusing on practical AI skills for professionals and enterprises.
 
 ## 📫 Connect with me
-
+- Email: pesic.uros@yahoo.com
 - [LinkedIn](https://www.linkedin.com/in/pesicuros)
-
-## 🌟 Projects
-
-Coming soon! I'm in the process of building my Python and Prompt Engineering portfolio.
-
----
-
-⭐️ From [V4lheru](https://github.com/V4lheru)
+- [GitHub](https://github.com/v4lheru)
