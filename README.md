@@ -20,31 +20,6 @@ I’ve worn many hats in my journey—starting from technical support, moving in
 
 ---
 
-## 💼 Professional Experience
-
-**Solution Consultant @ ParkourSC**  
-*Dec 2022 – Present*  
-- Lead requirements workshops to identify workflow gaps and align platform features with client operations.  
-- Prepare API payloads, user guides, and other technical documentation to ensure smooth project handoff.  
-- Reduced onboarding timelines by implementing standardized integration frameworks.
-
-**Business Analyst @ ParkourSC**  
-*Feb 2021 – Nov 2022*  
-- Established traceable requirement baselines and streamlined alignment between clients and development teams.  
-- Significantly decreased scope changes and rework through rigorous documentation and traceability processes.
-
-**Chief Operations Officer @ Synthminds AI, Inc.**  
-*Mar 2023 – Dec 2024*  
-- Introduced robust prompt-engineering practices and no-code automation tools (Make.com, n8n) for internal operations.  
-- Created frameworks for prompt versioning and knowledge sharing, enabling consistent and repeatable AI solutions.
-
-**Customer Success Manager @ NCR Silver**  
-*Apr 2019 – Jan 2021*  
-- Oversaw post-implementation success for major franchise clients, achieving near-perfect retention.  
-- Created training materials to accelerate user adoption and leveraged feedback to inform product enhancements.
-
----
-
 ## 🛠️ Technical & Domain Skills
 
 | **AI & Intelligence**          | Generative AI (Prompt Engineering, LLM Fine-Tuning, LangChain), Vector Databases & Embeddings, No-Code AI Tools |
