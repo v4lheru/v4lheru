@@ -1,54 +1,88 @@
 # Hi there, I'm Uros Pesic! 👋
 
-## About Me 🚀
-I'm a Solution Consultant with a strong background in Prompt Engineering and Business Analysis, bringing 5+ years of experience in optimizing operations, designing solutions, and providing technical support. Currently, I'm working at ParkourSC in the supply chain domain and serving as the Chief Operations Officer at Synthminds.AI. My passion lies in leveraging AI to drive efficiency and deliver transformative business outcomes.
+**Solution Consultant | Automation Enthusiast | Prompt Engineer**
 
-## 🛠️ Skills
-- **Technical**: Python, AI/ML, Process Optimization, Technical Writing, APIs, No-Code AI Development, Advanced Prompt Engineering
-- **Soft Skills**: Stakeholder Management, Project Management, Customer Relations, Strategic Planning
-- **Industry Knowledge**: Supply Chain Management, Business Analysis, Solution Design, AI Integration Strategies
+> My career has been about understanding people’s needs and then making technology fit those needs—never the other way around. I specialize in bridging the gap between business requirements and technical solutions, with a strong focus on **automation**, **generative AI**, and **supply chain** implementations.
 
-## 🌟 Professional Experience
-- **Solution Consultant** at ParkourSC (Dec 2022 - Present)
-- **Chief Operations Officer** at Synthminds.AI (Mar 2023 - Present)
-- **Business Analyst** at ParkourSC (Feb 2021 - Nov 2022)
-- **Customer Success Manager** at NCR Silver (Apr 2019 - Jan 2021)
+---
 
-## 🎓 Education & Certifications
-- Bachelor's Degree in Law, University Union, Belgrade
-- PCEP™ – Certified Entry-Level Python Programmer
-- MindStudio Certified Developer (No-Code AI Automation)
-- Strategic Integration of AI in Business Domains (Yeshiva University)
-- AI Strategies for Business and Organizational Leaders (Yeshiva University)
-- ChatGPT for Everyone & Advanced Prompt Engineering (Uplimit)
+## 🚀 Profile
 
-## 🌱 Current Focus
-- Integrating AI-driven workflows and tools to increase team productivity and innovation
-- Developing AI-powered solutions for streamlining operations and enhancing project delivery
-- Expanding knowledge in emerging AI technologies and their business applications
+I’ve worn many hats in my journey—starting from technical support, moving into business analysis, and now thriving as a Solution Consultant. My passion lies in **streamlining operations**, **enhancing workflows** with **AI**, and delivering **actionable insights** to drive real business impact. Whether it’s designing supply chain solutions or automating repetitive tasks with **no-code** and **prompt engineering**, I’m all about cutting clutter so teams can focus on what matters most.
 
-## 🚀 Key Achievements
-- Reduced project delivery time by 25% through innovative AI-driven solution design approaches
-- Increased successful project acquisitions by 15% by refining pre-sales activities and POC definitions
-- Developed an AI-powered documentation assistant, streamlining workflow creation and requirements gathering
-- Minimized overall project risk by ~30% through strategic oversight of implementation projects
-- Achieved a 98% customer retention rate across 7 Franchises through proactive support strategies
+---
+
+## 🏆 Key Strengths & Focus
+- **Generative AI & Prompt Engineering**: Building custom AI-driven workflows, LLM integration, fine-tuning models, and creating reusable prompt libraries.  
+- **Solution Design & Automation**: Harmonizing **ERP, CRM**, and PM systems through **no-code** platforms like Make.com and n8n—reducing errors and manual processes.  
+- **Technical Communication**: Crafting **API documentation**, **Postman collections**, and user-friendly guides to streamline handoffs and reduce back-and-forth.  
+- **Leadership & Strategy**: Managing cross-functional teams, setting up structured methodologies (e.g., traceable documentation, AI-driven knowledge management), and ensuring timely delivery.  
+
+---
+
+## 💼 Professional Experience
+
+**Solution Consultant @ ParkourSC**  
+*Dec 2022 – Present*  
+- Lead requirements workshops to identify workflow gaps and align platform features with client operations.  
+- Prepare API payloads, user guides, and other technical documentation to ensure smooth project handoff.  
+- Reduced onboarding timelines by implementing standardized integration frameworks.
+
+**Business Analyst @ ParkourSC**  
+*Feb 2021 – Nov 2022*  
+- Established traceable requirement baselines and streamlined alignment between clients and development teams.  
+- Significantly decreased scope changes and rework through rigorous documentation and traceability processes.
+
+**Chief Operations Officer @ Synthminds AI, Inc.**  
+*Mar 2023 – Dec 2024*  
+- Introduced robust prompt-engineering practices and no-code automation tools (Make.com, n8n) for internal operations.  
+- Created frameworks for prompt versioning and knowledge sharing, enabling consistent and repeatable AI solutions.
+
+**Customer Success Manager @ NCR Silver**  
+*Apr 2019 – Jan 2021*  
+- Oversaw post-implementation success for major franchise clients, achieving near-perfect retention.  
+- Created training materials to accelerate user adoption and leveraged feedback to inform product enhancements.
+
+---
+
+## 🛠️ Technical & Domain Skills
+
+| **AI & Intelligence**          | Generative AI (Prompt Engineering, LLM Fine-Tuning, LangChain), Vector Databases & Embeddings, No-Code AI Tools |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Technical Skills**           | Python, JavaScript, Basic SQL, API Integration & Docs, Markdown, HTML                                         |
+| **Automation & Integration**   | Make.com (Integromat), Zapier, n8n, Power Automate, REST APIs, Webhooks, Postman, GitHub CI/CD                |
+| **Project Delivery & Leadership** | Agile/Waterfall PM, Cross-Functional Team Leadership, Stakeholder Management, Organizational Change Mgmt    |
+| **Process & Compliance**       | Business Analysis, Pharma Validation (IQ, OQ, PQ), Regulatory Compliance, Continuous Improvement              |
+| **Industry & Domain Expertise**| Supply Chain Management, AI Integration Strategies, Process Optimization, Vendor Management                   |
+
+---
+
+## 📃 Certifications
+- **USAII® Certified Artificial Intelligence Scientist (CAIS™)**  
+- **Business Analysis Fundamentals (ECBA, CCBA, CBAP endorsed)**  
+- **Strategic Integration of AI in Business Domains (Yeshiva University)**  
+- **GitHub Certification (Foundations & GitHub Actions)**  
+- **PCEP™ – Certified Entry-Level Python Programmer**  
+
+---
+
+## 👥 Professional Involvement
+- **Mindstudio Academy — Head of Assessment**  
+  Built evaluation frameworks for AI/no-code courses, ensuring current industry alignment.  
+- **Uplimit — Teaching Assistant (AI Courses)**  
+  Helped students navigate advanced AI and ML concepts, bridging theory with real-world implementations.
+
+---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
+![Uros's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v4lheru&layout=compact&theme=radical)
 
-## 🚀 Notable Projects
-- **AI-powered Documentation Assistant**: Streamlined workflow creation and requirements gathering across multiple projects
-- **Knowledge Management System**: Developed using Obsidian.md to boost operational efficiency
-- **Practical AI Institute (PAII.org)**: Co-founder of an innovative AI education platform focusing on practical AI skills for professionals and enterprises
+---
 
-## 👨‍🏫 Professional Involvement
-- **Co-Founder** of Practical AI Institute (PAII.org) (Since September 2024)
-- **Head of Assessment** at Mindstudio Academy (Since May 2024)
-- **Teaching Assistant** for AI Courses at Uplimit
+## 📫 Connect with Me
+- **Email**: [pesic.uros@yahoo.com](mailto:pesic.uros@yahoo.com)  
+- **LinkedIn**: [linkedin.com/in/pesicuros](https://www.linkedin.com/in/pesicuros)  
+- **GitHub**: [github.com/v4lheru](https://github.com/v4lheru)
 
-## 📫 Connect with me
-- Email: pesic.uros@yahoo.com
-- [LinkedIn](https://www.linkedin.com/in/pesicuros)
-- [GitHub](https://github.com/v4lheru)
+> *Open to new collaborations, especially in **AI-driven product development**, **solutions consulting**, or **workflow automation**. Let’s connect and make technology work smarter together!*
