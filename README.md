@@ -16,7 +16,13 @@ I’ve worn many hats in my journey—starting from technical support, moving in
 - **Generative AI & Prompt Engineering**: Building custom AI-driven workflows, LLM integration, fine-tuning models, and creating reusable prompt libraries.  
 - **Solution Design & Automation**: Harmonizing **ERP, CRM**, and PM systems through **no-code** platforms like Make.com and n8n—reducing errors and manual processes.  
 - **Technical Communication**: Crafting **API documentation**, **Postman collections**, and user-friendly guides to streamline handoffs and reduce back-and-forth.  
-- **Leadership & Strategy**: Managing cross-functional teams, setting up structured methodologies (e.g., traceable documentation, AI-driven knowledge management), and ensuring timely delivery.  
+- **Leadership & Strategy**: Managing cross-functional teams, setting up structured methodologies (e.g., traceable documentation, AI-driven knowledge management), and ensuring timely delivery.
+
+---
+
+## 📊 GitHub Stats
+![Uros's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v4lheru&layout=compact&theme=radical)
 
 ---
 
@@ -46,12 +52,6 @@ I’ve worn many hats in my journey—starting from technical support, moving in
   Built evaluation frameworks for AI/no-code courses, ensuring current industry alignment.  
 - **Uplimit — Teaching Assistant (AI Courses)**  
   Helped students navigate advanced AI and ML concepts, bridging theory with real-world implementations.
-
----
-
-## 📊 GitHub Stats
-![Uros's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v4lheru&layout=compact&theme=radical)
 
 ---
 
