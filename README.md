@@ -1,7 +1,5 @@
 # Hi there, I'm Uros Pesic! 👋
 
-![Profile Views](https://komarev.com/ghpvs/?username=v4lheru&color=blueviolet&style=for-the-badge)
-
 **AI Workflow Architect | Automation Engineer | Builder**
 
 > I build things that solve problems - whether that's full-stack applications, automation systems, or AI-powered workflows. Not a traditional software engineer, but I ship production code daily using Claude Code, n8n, Supabase, and whatever else gets the job done. Currently at Semrush architecting AI workflows.
@@ -63,8 +61,6 @@ Started in technical support, moved through business analysis, and now I design 
 
 ![Uros's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v4lheru&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=v4lheru&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v4lheru&theme=redical)
 
