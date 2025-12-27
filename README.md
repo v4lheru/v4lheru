@@ -46,8 +46,8 @@ Started in technical support, moved through business analysis, and now I design 
 
 ## 📊 GitHub Stats
 
-![Uros's GitHub stats](https://github-readme-stats.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v4lheru&layout=compact&theme=radical)
+![Uros's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v4lheru&layout=compact&theme=radical)
 
 ---
 
