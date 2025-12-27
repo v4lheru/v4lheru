@@ -1,5 +1,7 @@
 # Hi there, I'm Uros Pesic! 👋
 
+![Profile Views](https://komarev.com/ghpvs/?username=v4lheru&color=blueviolet&style=for-the-badge)
+
 **AI Workflow Architect | Automation Engineer | Builder**
 
 > I build things that solve problems - whether that's full-stack applications, automation systems, or AI-powered workflows. Not a traditional software engineer, but I ship production code daily using Claude Code, n8n, Supabase, and whatever else gets the job done. Currently at Semrush architecting AI workflows.
@@ -11,6 +13,19 @@
 Started in technical support, moved through business analysis, and now I design and build solutions at scale. When generative AI emerged, I went deep—prompt engineering, workflow automation, and integrating LLMs into real business processes. I specialize in making incompatible systems talk to each other and building the tools that teams actually need.
 
 🌐 [doyoueven.ai](https://doyoueven.ai) | 🤖 [synapticlabs.ai](https://synapticlabs.ai)
+
+---
+
+## 💼 What I Can Help You With
+
+**Looking to automate your business or build AI-powered tools?** I work with companies and individuals to:
+
+- 🔄 **Workflow Automation** - Connect your tools, eliminate manual work, save hours weekly
+- 🤖 **AI Integration** - Add LLMs to your existing processes (document processing, chatbots, data extraction)
+- 🛠️ **Custom Tools & Apps** - Build internal tools, dashboards, and MVPs fast
+- 📚 **AI Training & Consulting** - Upskill your team on prompt engineering and AI workflows
+
+**→ [Check out my work and get in touch](https://doyoueven.ai)**
 
 ---
 
@@ -44,10 +59,26 @@ Started in technical support, moved through business analysis, and now I design 
 
 ---
 
+## 🚧 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **AI Documentation Assistant** | Internal tool that transforms messy stakeholder interviews and meeting notes into structured requirement docs using prompt engineering + Confluence/Jira integration |
+| **Multi-System Workflow Engine** | n8n + Supabase automation that syncs ERP, CRM, and PM tools - eliminated hours of manual data entry |
+| **Contract Data Extraction Pipeline** | AI-powered system that pulls structured data from legal documents and routes it to the right teams |
+
+*More projects on my repos below or at [doyoueven.ai](https://doyoueven.ai)*
+
+---
+
 ## 📊 GitHub Stats
 
 ![Uros's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v4lheru&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=v4lheru&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v4lheru&theme=redical)
 
 ---
 
@@ -61,7 +92,10 @@ Started in technical support, moved through business analysis, and now I design 
 
 ---
 
-## 👥 Professional Involvement
+## 👥 Teaching & Community
+
+- **[Uprighted](https://www.uprighted.com/) — Teaching Assistant**  
+  Guiding students through tech career transitions with hands-on mentorship.
 
 - **Mindstudio Academy — Head of Assessment**  
   Built evaluation frameworks for AI/no-code courses, ensuring current industry alignment.
@@ -71,10 +105,12 @@ Started in technical support, moved through business analysis, and now I design 
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Talk
 
-- **Email**: [pesic.uros@yahoo.com](mailto:pesic.uros@yahoo.com)
-- **LinkedIn**: [linkedin.com/in/pesicuros](https://www.linkedin.com/in/pesicuros)
-- **GitHub**: [github.com/v4lheru](https://github.com/v4lheru)
+**Have a project in mind? Need automation or AI help?**
 
-> *Open to collaborations in AI-driven product development, automation systems, or building things that actually work. Let's connect.*
+- 🌐 **Website**: [doyoueven.ai](https://doyoueven.ai)
+- 📧 **Email**: [pesic.uros@yahoo.com](mailto:pesic.uros@yahoo.com)
+- 💼 **LinkedIn**: [linkedin.com/in/pesicuros](https://www.linkedin.com/in/pesicuros)
+
+> *I'm always open to interesting projects, consulting work, or just a good conversation about AI and automation. Don't be a stranger.*
