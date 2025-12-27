@@ -59,24 +59,12 @@ Started in technical support, moved through business analysis, and now I design 
 
 ---
 
-## 🚧 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **AI Documentation Assistant** | Internal tool that transforms messy stakeholder interviews and meeting notes into structured requirement docs using prompt engineering + Confluence/Jira integration |
-| **Multi-System Workflow Engine** | n8n + Supabase automation that syncs ERP, CRM, and PM tools - eliminated hours of manual data entry |
-| **Contract Data Extraction Pipeline** | AI-powered system that pulls structured data from legal documents and routes it to the right teams |
-
-*More projects on my repos below or at [doyoueven.ai](https://doyoueven.ai)*
-
----
-
 ## 📊 GitHub Stats
 
 ![Uros's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=v4lheru&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v4lheru&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=v4lheru&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=v4lheru&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=v4lheru&theme=redical)
 
