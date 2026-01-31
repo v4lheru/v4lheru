@@ -108,7 +108,7 @@ Started in technical support, moved through business analysis, and now I design 
 | Project | Description |
 |---------|-------------|
 | **Semrush Content Add-on** | Google Docs add-on scoring content against brand guidelines with AI rewrite suggestions |
-| [**doyoueven-ai**](https://github.com/v4lheru/doyoueven-ai) | AI fitness coaching app combining workout planning with AI-generated training recommendations |
+| [**doyoueven-ai**](https://github.com/v4lheru/doyoueven-ai) | My website |
 | **Social Media Hub** | Multi-platform content management with automated posting workflows and engagement tracking |
 | **Team Canvas** | Collaborative team alignment tool using the Team Canvas methodology — real-time Supabase sessions |
 | [**ParkourSC-Email**](https://github.com/v4lheru/ParkourSC-Email) | React email template generator for release train communications — Material-UI, one-click generation |
